@@ -55,7 +55,7 @@ export function Gallery() {
         <div className="relative w-full h-[500px] md:h-[900px] overflow-hidden group bg-neutral-950 border border-white/10 shadow-[0_0_100px_rgba(0,0,0,1)] rounded-sm">
           <div className="absolute inset-0 overflow-hidden">
             <Image
-              src="/images/gym2.png"
+              src="/Images/gym2.png"
               alt="Power Lab Fitness Equipment"
               fill
               quality={100}
